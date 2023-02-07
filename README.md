@@ -1,5 +1,5 @@
 # RaspberryPi Face and Object Detection DoorLock
-I am using RaspberryPi to hold the ML model I build and work as a Security Door Lock
+I am using RaspberryPi to hold the ML model I build and it will work as a Security Door Lock
 
 
 ## Project Components
