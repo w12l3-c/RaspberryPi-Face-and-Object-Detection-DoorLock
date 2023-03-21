@@ -1,8 +1,8 @@
 # RaspberryPi Face and Object Detection DoorLock
 
-<a target="_blank" href="https://colab.research.google.com/drive/1GCkJ3qr3HWFWsXyi0P9rR5y0xfW_nlNm?usp=sharing"><br>
+<a target="_blank" href="https://colab.research.google.com/drive/1GCkJ3qr3HWFWsXyi0P9rR5y0xfW_nlNm?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+</a><br>
 I am using RaspberryPi to hold the ML model I build and it will work as a Security Door Lock
 
 
